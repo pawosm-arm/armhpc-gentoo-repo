@@ -1,9 +1,8 @@
-Design Repository
-=================
+Arm HPC Repository
+==================
 
-Design repository for Gentoo Linux[1].
+Arm HPC compiler suite[1] repository for Gentoo Linux[2].
 
-Mostly verilog related digital design tools.
+[1] https://developer.arm.com/products/software-development-tools/hpc
 
-
-[1] http://www.gentoo.org/
+[2] http://www.gentoo.org
